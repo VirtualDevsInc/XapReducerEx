@@ -1,0 +1,15 @@
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\bin\Release\XapReduce.exe.config
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\obj\Release\MVeldhuizen.XapReduce.Res.Errors.resources
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\obj\Release\MVeldhuizen.XapReduce.Res.Output.resources
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\obj\Release\MVeldhuizen.XapReduce.Res.Res.resources
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\obj\Release\XapReduce.csproj.GenerateResource.Cache
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\bin\Release\license.txt
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\bin\Release\XapReduce.exe
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\bin\Release\XapReduce.pdb
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\bin\Release\CommandLine.dll
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\bin\Release\CommandLine.xml
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\obj\Release\XapReduce.exe
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\obj\Release\XapReduce.pdb
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\bin\Release\ILMerge.exe
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\bin\Release\NSubstitute.dll
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce\bin\Release\NSubstitute.xml

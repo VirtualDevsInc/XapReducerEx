@@ -1,0 +1,12 @@
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce.Tests\obj\Debug\XapReduce.Tests.csprojResolveAssemblyReference.cache
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce.Tests\bin\Debug\license.txt
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce.Tests\bin\Debug\XapReduce.Tests.dll
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce.Tests\bin\Debug\XapReduce.Tests.pdb
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce.Tests\bin\Debug\NSubstitute.dll
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce.Tests\bin\Debug\XapReduce.exe
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce.Tests\bin\Debug\CommandLine.dll
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce.Tests\bin\Debug\XapReduce.pdb
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce.Tests\bin\Debug\NSubstitute.xml
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce.Tests\bin\Debug\CommandLine.xml
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce.Tests\obj\Debug\XapReduce.Tests.dll
+C:\Users\BrandonS\Desktop\GitHub\XapReduce\XapReduce.Tests\obj\Debug\XapReduce.Tests.pdb
